@@ -8,6 +8,7 @@ import {
   html,
   css,
   reactjs,
+  sveltejs,
   redux,
   tailwind,
   nodejs,
@@ -46,16 +47,16 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
+    title: "React Developer",
+    icon: reactjs,
   },
   {
     title: "Backend Developer",
-    icon: backend,
+    icon: nodejs,
   },
   {
-    title: "Content Creator",
-    icon: creator,
+    title: "Svelte Developer",
+    icon: sveltejs,
   },
 ]
 
