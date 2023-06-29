@@ -43,9 +43,9 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         I'm a passionate software developer with experience in Typescript and
-        Javascritp. I have worked with React, Svelte, Nodejs and frameworks like
-        Grails and OutSystems. Building long scale and performant applications
-        that solve real world problems.
+        Javascript. I have worked with React, Svelte, Nodejs and frameworks like
+        Grails and OutSystems. Building long-scale and performant applications
+        that solve real-world problems.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
