@@ -123,8 +123,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2022 - February 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing and maintaining web applications using Svelte.js and other related technologies.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
@@ -136,10 +135,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "August 2021 - May 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developing and maintaining the flagship product using Grails framework.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to ensure the product quality.",
+      "Creating plugin to integrate company product with Mercado Libre API.",
     ],
   },
   {
@@ -149,10 +147,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "February 2020 - August 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developing and maintaining web applications using React.js and Outsystems.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to to ensure the product quality.",
+      "Creating small plugin to integrate Dynamic Shields (DY) recomendation engine into important bank home banking.",
     ],
   },
   {
@@ -162,10 +159,8 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2020 - November 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Participate as a programming tutor, teaching basic concepts to improve student work insertion.",
+      "Provide support to students to unblock issues during their academy projects"
     ],
   },
 ]
