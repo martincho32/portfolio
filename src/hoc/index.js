@@ -1,2 +1,1 @@
-import SectionWrapper from './SectionWrapper'
-export { SectionWrapper } 
+export * from './SectionWrapper'
