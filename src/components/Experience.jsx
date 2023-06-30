@@ -14,7 +14,8 @@ import { textVariant } from '../utils';
 const ExperienceCard = ({ experience }) => (
   <VerticalTimelineElement
     contentStyle={{ background: "#1d1836", color: "#fff" }}
-    date={ experience.date }
+    date={experience.date}
+    //TODO update company icons
     // iconStyle={{ background: experience.iconBg }}
     // icon={
     //   <div className="flex justify-center items-center w-full h-full">

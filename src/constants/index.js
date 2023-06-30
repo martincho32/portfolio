@@ -47,16 +47,16 @@ const services = [
     icon: web,
   },
   {
-    title: "React Developer",
+    title: "Reactjs",
     icon: reactjs,
+  },
+  {
+    title: "Sveltejs",
+    icon: sveltejs,
   },
   {
     title: "Backend Developer",
     icon: nodejs,
-  },
-  {
-    title: "Svelte Developer",
-    icon: sveltejs,
   },
 ]
 
@@ -82,13 +82,13 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Sveltejs",
+    icon: sveltejs,
   },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
+  // {
+  //   name: "Tailwind CSS",
+  //   icon: tailwind,
+  // },
   {
     name: "Node JS",
     icon: nodejs,
@@ -97,22 +97,22 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
+  // {
+  //   name: "Three JS",
+  //   icon: threejs,
+  // },
   {
     name: "git",
     icon: git,
   },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
+  // {
+  //   name: "figma",
+  //   icon: figma,
+  // },
+  // {
+  //   name: "docker",
+  //   icon: docker,
+  // },
 ]
 
 const experiences = [
@@ -123,7 +123,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2022 - February 2023",
     points: [
-      "Developing and maintaining web applications using Svelte.js and other related technologies.",
+      "Developing and maintaining web applications using Svelte.js (FE) and postgreSWL with hasura (BE).",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
@@ -137,7 +137,7 @@ const experiences = [
     points: [
       "Developing and maintaining the flagship product using Grails framework.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to ensure the product quality.",
-      "Creating plugin to integrate company product with Mercado Libre API.",
+      "Creating plugin to integrate company product with Mercado Libre API using Nodejs with Express.",
     ],
   },
   {
